@@ -1,8 +1,6 @@
 DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability
 ===
-
 Code for paper "DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability"
-
 Paper: [https://arxiv.org/abs/2309.03883  ](https://arxiv.org/abs/2503.02343/)
 Authors: Yunzhen He $^1$, Yusuke Takase $^1$, Yoichi Ishibashi $^{2*}$, Hidetoshi Shimodaira $^{1,3}$  
 $^1$ Kyoto University, $^2$ NEC, $^3$ RIKEN AIP, $^*$ Work done while at Kyoto University.
